@@ -58,6 +58,10 @@ div {
   border-color: #000;
 }
 
+.btn-ghost:hover {
+  background-color: #ccc;
+}
+
 .btn-warning {
   display: inline-block;
   background-color: #f33;
@@ -67,6 +71,10 @@ div {
   border-width: 3px;
   text-decoration: none;
   font-size: 1.125rem;
+}
+
+.btn-warning:hover {
+  background-color: #933;
 }
 
 .btn-small {
