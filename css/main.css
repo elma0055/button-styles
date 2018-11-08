@@ -11,7 +11,6 @@ div {
   text-align: center;
   padding: .5rem;
   text-align: center;
-  padding: .4em .75em .3em;
   border-width: 3px;
   border-radius: 8px;
   color: #fff;
@@ -27,6 +26,64 @@ div {
   font-size: 1.125rem;
 }
 
-.btn-primary {
+.btn-subtle {
+  background-color: #ccc;
+  color: #fff;
+  padding: .4em .75em .3em;
+  border-width: 3px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-size: 1.125rem;
+}
 
+.btn-ghost {
+  color: #000;
+  padding: .4em .75em .3em;
+  border-radius: 8px;
+  border-color: #000;
+  border-width: 3px;
+  text-decoration: none;
+  font-size: 1.125rem;
+  border-color: #000;
+}
+
+.btn-warning {
+  background-color: #f33;
+  color: #fff;
+  padding: .4em .75em .3em;
+  border-radius: 8px;
+  border-width: 3px;
+  text-decoration: none;
+  font-size: 1.125rem;
+}
+
+.btn-small {
+  background-color: #000;
+  color: #fff;
+  padding: .4em .75em .3em;
+  border-width: 3px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-size: .875rem;
+}
+
+.btn-small1 {
+  background-color: #ccc;
+  color: #fff;
+  padding: .4em .75em .3em;
+  border-width: 3px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-size: .875rem;
+}
+
+.btn-small2 {
+  color: #000;
+  padding: .4em .75em .3em;
+  border-radius: 8px;
+  border-color: #000;
+  border-width: 3px;
+  text-decoration: none;
+  font-size: .875rem;
+  border-color: #000;
 }
