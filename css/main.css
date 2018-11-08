@@ -41,6 +41,10 @@ div {
   font-size: 1.125rem;
 }
 
+.btn-subtle:hover{
+  background-color: #666;
+}
+
 .btn-ghost {
   display: inline-block;
   color: #000;
