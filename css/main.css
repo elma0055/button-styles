@@ -12,7 +12,7 @@ div {
   margin: .5em;
 }
 
-.primary.subtle.ghost.warning {
+.btn.btn-subtle.btn-ghost.btn-warning {
   display: inline-block;
   background-color: #333;
   color: #fff;
@@ -24,7 +24,7 @@ div {
   text-align: center;
 }
 
-primary. {
+.btn {
   display: inline-block;
   background-color: #333;
   color: #fff;
@@ -37,32 +37,41 @@ primary. {
 }
 
 
-.primary:hover {
+.btn:hover {
   background-color: #000;
 }
 
-.subtle {
+.btn-subtle {
   background-color: #ccc;
   color: #fff;
+  padding: .4em .75em .3em;
+  border-radius: 8px;
+  text-decoration: none;
+  font-size: 1.125rem;
+  display: inline-block;
 }
 
-.primary.subtle:hover {
+.btn-primary.subtle:hover {
   background-color: #666;
 }
 
-.ghost {
+.btn-ghost {
+  display: inline-block;
   color: #000;
   border-radius: 8px;
   border-style: solid;
   border-color: #000;
   border-width: 3px;
+  padding: .4em .75em .3em;
+  text-decoration: none;
+  font-size: 1.125rem;
 }
 
-.ghost:hover {
+.btn-ghost:hover {
   background-color: #ccc;
 }
 
-.warning {
+.btn-warning {
   display: inline-block;
   background-color: #f33;
   color: #fff;
@@ -73,7 +82,7 @@ primary. {
   font-size: 1.125rem;
 }
 
-.warning:hover {
+.btn-warning:hover {
   background-color: #933;
 }
 
