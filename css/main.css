@@ -50,7 +50,8 @@ html {
 }
 
 .btn-ghost:hover {
-  background-color: #666;
+  background-color: #333;
+  color: #fff;
 }
 
 .btn-warning {
@@ -65,7 +66,7 @@ html {
 }
 
 .btn-warning:hover {
-  background-color:
+  background-color: #933;
 }
 
 .btn-small {
@@ -79,8 +80,8 @@ html {
   margin: 5px;
 }
 
-.btn:hover {
-  background-color:
+.btn-small:hover {
+  background-color: #000;
 }
 
 .btn-small1 {
@@ -95,7 +96,7 @@ html {
 }
 
 .btn:hover {
-  background-color:
+  background-color: #333;
 }
 
 .btn-small2 {
@@ -110,7 +111,8 @@ html {
 }
 
 .btn:hover {
-  background-color:
+  background-color: #333;
+  color: #fff;
 }
 
 .btn-small3 {
@@ -124,8 +126,8 @@ html {
   margin: 5px;
 }
 
-.btn:hover {
-  background-color:
+.btn-small3:hover {
+  background-color: #933;
 }
 
 .btn-big {
@@ -139,8 +141,8 @@ html {
   margin: 5px;
 }
 
-.btn:hover {
-  background-color:
+.btn-big:hover {
+  background-color: #000;
 }
 
 .btn-big1 {
@@ -154,7 +156,7 @@ html {
   margin: 5px;
 }
 
-.btn:hover {
+.btn-big1:hover {
   background-color:
 }
 
@@ -169,8 +171,9 @@ html {
   border-style: solid;
 }
 
-.btn:hover {
-  background-color:
+.btn-big2:hover {
+  background-color: #333;
+  color: #fff;
 }
 
 .btn-big3 {
@@ -184,6 +187,6 @@ html {
   margin: 5px;
 }
 
-.btn:hover {
-  background-color:
+.btn-big3:hover {
+  background-color: #933;
 }
