@@ -93,6 +93,7 @@ div {
 }
 
 .btn.small2 {
+  background-color: #fff;
   color: #333;
   border-radius: 8px;
   text-decoration: none;
@@ -121,21 +122,18 @@ div {
   background-color: #933;
 }
 
-.btn-big {
+.btn.btn-big {
   background-color: #333;
   color: #fff;
-  border-radius: 8px;
-  text-decoration: none;
-  display: inline-block;
   font-size: 1.5rem;
   margin: 5px;
 }
 
-.btn-big:hover {
+.btn.btn-big:hover {
   background-color: #000;
 }
 
-.btn-big1 {
+.btn.big1 {
   background-color: #ccc;
   color: #fff;
   border-radius: 8px;
@@ -145,11 +143,11 @@ div {
   margin: 5px;
 }
 
-.btn-big1:hover {
+.btn.big1:hover {
   background-color: #333;
 }
 
-.btn-big2 {
+.btn.big2 {
   color: #333;
   border-radius: 8px;
   text-decoration: none;
@@ -157,14 +155,15 @@ div {
   font-size: 1.5rem;
   margin: 5px;
   border-style: solid;
+  background-color: #fff;
 }
 
-.btn-big2:hover {
+.btn.big2:hover {
   background-color: #333;
   color: #fff;
 }
 
-.btn-big3 {
+.btn.big3 {
   background-color: #f33;
   color: #fff;
   border-radius: 8px;
@@ -174,6 +173,6 @@ div {
   margin: 5px;
 }
 
-.btn-big3:hover {
+.btn.big3:hover {
   background-color: #933;
 }
