@@ -1,11 +1,13 @@
 html {
   box-sizing: border-box;
   font: normal 100%/1.5 sans-serif;
-  text-align: center;
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
+}
+div {
+  text-align: center;
 }
 
 .btn {
@@ -95,7 +97,7 @@ html {
   margin: 5px;
 }
 
-.btn:hover {
+.btn-small1:hover {
   background-color: #333;
 }
 
@@ -110,7 +112,7 @@ html {
   border-style: solid;
 }
 
-.btn:hover {
+.btn-small2:hover {
   background-color: #333;
   color: #fff;
 }
@@ -157,7 +159,7 @@ html {
 }
 
 .btn-big1:hover {
-  background-color:
+  background-color: #333;
 }
 
 .btn-big2 {
